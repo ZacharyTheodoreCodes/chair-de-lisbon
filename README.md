@@ -1,2 +1,5 @@
 # chair-de-lisbon
-vanilla css practice
+
+a vanilla css practice of a furniture store landing page
+
+![result](result.jpg)
